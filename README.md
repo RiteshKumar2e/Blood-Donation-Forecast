@@ -1,4 +1,4 @@
-# Blood Donation Prediction
+# Blood Donation Forecast
 ## Overview 
 This repository contains a machine learning model aimed at predicting blood donation behavior. The task involves classifying individuals based on whether they will donate blood in the future using various features from the dataset. The models employed include Random Forest Classifier and Logistic Regression. Model performance is evaluated using AUC (Area Under the Curve) and ROC (Receiver Operating Characteristic) curve metrics.
 

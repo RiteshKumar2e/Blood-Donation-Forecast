@@ -40,7 +40,11 @@ The following steps outline the model-building process:
 ### 5. ROC Curve:
 - The **ROC curves** for both models are plotted to visualize the trade-off between the true positive rate and false positive rate.
 
+The project uses three CSV files for training and testing the models:
 
+- blood-train.csv - The training dataset with features and labels.
+- blood-test.csv - The test dataset used to predict blood donation behavior.
+- blood-format.csv - A file detailing the format for the datasets (usually contains column information).
 
 ### Key Features:
 - **Random Forest Classifier**: A robust ensemble learning model used to classify blood donation outcomes.

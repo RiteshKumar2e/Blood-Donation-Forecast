@@ -39,7 +39,7 @@ The following steps outline the model-building process:
 
 ### 5. ROC Curve:
 - The **ROC curves** for both models are plotted to visualize the trade-off between the true positive rate and false positive rate.
-
+## Data
 The project uses three CSV files for training and testing the models:
 
 - blood-train.csv - The training dataset with features and labels.
